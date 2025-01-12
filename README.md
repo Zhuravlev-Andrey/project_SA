@@ -95,7 +95,7 @@ ERD-диаграмма — диаграмма где показано, как р
 9. Не больше одного РК на сущность 
 10. Формат сдачи файлы.drawio и.pdf 
 
-```UML
+```SQL
 CREATE TABLE users(
     user_id SERIAL PRIMARY KEY,
     user_first_name VARCHAR(100),
@@ -159,7 +159,7 @@ drop TYPE status_enum
 2. Только синхронные запросы.
 3. Только трехзвенная архитектура.
 
-```
+```plantuml
 @startuml
 
 skin rose
@@ -289,7 +289,7 @@ https://www.json.org/json-en.html
 - методы только GET или POST.
 - только положительный успешный вызов/вызовы. Никаких эдж кейсов. В вызове всё идёт хорошо, вызов не ломается. 
 
-```
+```yaml
 openapi: 3.0.3
 info:
   title: Swagger
