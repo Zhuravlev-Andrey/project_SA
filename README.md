@@ -4,35 +4,35 @@
 <details>
 <summary>Выполнение задания</summary>
 
-![alt text](images/Zhuravlev_Andrey.drawio.pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio.jpg) 
 </details>
 
 ## Макеты
 <details>
 <summary>Выполнение задания</summary>
 
-![alt text](images/Zhuravlev_Andrey.drawio%20(3).pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio%20(3).jpg) 
 </details>
 
 ## UC
 <details>
 <summary>Выполнение задания</summary>
 
-![alt text](images/Zhuravlev_Andrey.drawio%20(1).pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio%20(1).jpg) 
 </details>
 
 ## Architecture
 <details>
 <summary>Выполнение задания</summary>
 
-![alt text](images/Zhuravlev_Andrey.drawio%20(2).pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio%20(2).jpg) 
 </details>
 
 ## Data modeling
 <details>
 <summary>Выполнение задания</summary>
 
-![alt text](images/Zhuravlev_Andrey.drawio%20(5).pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio%20(5).jpg) 
 </details>
 
 ## ERD
@@ -109,7 +109,7 @@ JOIN photos ON profiles.profile_id = photos.profile_id
 drop TABLE users,profiles, photos;
 drop TYPE status_enum
 ```
-![alt text](images/Zhuravlev_Andrey.drawio%20(4).pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio%20(4).jpg) 
 </details>
 
 ## Sequence
@@ -170,7 +170,7 @@ deactivate User
 @enduml
 ```
 
-![alt text](images/Zhuravlev_Andrey.drawio%20(6).pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio%20(6).jpg) 
 </details>
 
 ## LLM-Gigachat
@@ -243,7 +243,7 @@ https://www.json.org/json-en.html
 1. Только положительный успешный вызов/вызовы. Никаких эдж кейсов. В вызове всё идёт хорошо, вызов не ломается. 
 2. Можно использовать GET И/ИЛИ POST. Брать другие типы вызовов нельзя. 
 
-![alt text](images/Zhuravlev_Andrey.drawio%20(7).pdf) 
+![alt text](images/Zhuravlev_Andrey.drawio%20(7).jpg) 
 </details>
 
 ## Swagger
@@ -395,6 +395,6 @@ components:
  - Кейсы не должны включать в себя основной сценарий
  - Описать от 2 до 4 кейсов включительно
 
- ![alt text](images/Zhuravlev_Andrey.drawio%20(8).pdf)
- ![alt text](images/Zhuravlev_Andrey.drawio%20(9).pdf)
+ ![alt text](images/Zhuravlev_Andrey.drawio%20(8).jpg)
+ ![alt text](images/Zhuravlev_Andrey.drawio%20(9).jpg)
 </details>
