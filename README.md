@@ -1,4 +1,4 @@
-# **project_SA**
+# **Курс - Systems analyst**
 
 ## US 
 <details>
